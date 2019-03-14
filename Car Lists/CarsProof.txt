@@ -1,0 +1,36 @@
+Car 1:
+
+Make: Mazda
+Model: 3
+Year: 2018
+Price: $24000
+Mileage: 4500 km
+Condition: 9/10
+
+Car 2:
+
+Make: Mazda
+Model: CX-5
+Year: 2011
+Price: $10000
+Mileage: 100000 km
+Condition: 7/10
+
+Car 3:
+
+Make: BMW
+Model: 328i
+Year: 2012
+Price: $18000
+Mileage: 120000 km
+Condition: 8/10
+
+Car 4:
+
+Make: Jeep
+Model: Grand Cherokee
+Year: 2017
+Price: $38000
+Mileage: 60000 km
+Condition: 9/10
+
